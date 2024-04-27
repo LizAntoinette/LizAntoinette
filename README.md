@@ -1,5 +1,5 @@
 # 💫 About Me:
-Liz Antoinette Anguren - Full Stack Developer<br><br>📚 Doing Master’s in Computer Science @ Cebu Institute of Technology-University.<br>👩🏻‍💻 Currently enhancing web and software solutions at Coach Catalyst; specializes in Ruby on Rails, Vue.js, Tailwind CSS, SASS and PostgreSQL.<br>🌱 Actively learning Spring Boot, Java, ReactJS, and Angular to expand technical skills.<br>💬 Open for collaborations and sharing insights on modern web development.
+<h2>Liz Antoinette Anguren - Full Stack Developer</h2><br><br>📚 Doing Master’s in Computer Science (ONLINE) @ Cebu Institute of Technology-University.<br>👩🏻‍💻 Currently enhancing web and software solutions at Coach Catalyst; specializes in Ruby on Rails, Vue.js, Tailwind CSS, SASS and PostgreSQL.<br>🌱 Actively learning Spring Boot, Java, ReactJS, and Angular to expand technical skills.<br>💬 Open for collaborations and sharing insights on modern web development.
 
 
 ## 🌐 Socials:
