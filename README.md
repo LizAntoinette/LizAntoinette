@@ -17,7 +17,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=LizAntoinette&icon=0&color=0)](https://visitcount.itsvg.in)
 
