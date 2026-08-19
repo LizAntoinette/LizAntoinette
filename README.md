@@ -1,6 +1,6 @@
 # Hi, I'm Liz 👋
 
-### Full-Stack Software Engineer | Backend Systems & Applied AI
+### Full-Stack Software Engineer 
 
 I'm a full-stack software engineer with **5+ years of professional development experience**, working on production web applications, backend services, APIs, integrations, and data-driven features.
 
