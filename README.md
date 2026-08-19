@@ -89,15 +89,3 @@ The project explores:
 * Tool calling and structured outputs
 * AI evaluation and observability
 * Production AI architectures
-
----
-
-## 📊 GitHub
-
-![Liz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LizAntoinette\&show_icons=true\&hide_border=true)
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Liz%20Anguren-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/liz-anguren/)
